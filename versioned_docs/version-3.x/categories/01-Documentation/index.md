@@ -27,6 +27,7 @@ Other server implementations:
 
 - Golang: https://github.com/googollee/go-socket.io
 - Golang: https://github.com/ambelovsky/gosf
+- Golang: https://github.com/zishang520/socket.io/
 - Java: https://github.com/mrniko/netty-socketio
 - Java: https://github.com/trinopoty/socket.io-server-java
 - Python: https://github.com/miguelgrinberg/python-socketio

@@ -38,6 +38,7 @@ Existem várias implementações de servidor Socket.IO disponíveis:
 - Java: https://github.com/trinopoty/socket.io-server-java
 - Python: https://github.com/miguelgrinberg/python-socketio
 - Golang: https://github.com/googollee/go-socket.io
+- Golang: https://github.com/zishang520/socket.io/
 
 E implementações do cliente na maioria das principais linguagens:
 

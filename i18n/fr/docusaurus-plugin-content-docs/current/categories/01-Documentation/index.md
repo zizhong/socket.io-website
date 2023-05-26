@@ -51,6 +51,7 @@ Et des implémentations client dans la plupart des langages majeurs :
 - Python: https://github.com/miguelgrinberg/python-socketio
 - .Net: https://github.com/doghappy/socket.io-client-csharp
 - Golang: https://github.com/googollee/go-socket.io
+- Golang: https://github.com/zishang520/socket.io/
 - Rust: https://github.com/1c3t3a/rust-socketio
 - Kotlin: https://github.com/icerockdev/moko-socket-io
 
